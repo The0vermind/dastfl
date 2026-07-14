@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "models\player\scout\ND_scout_red_gibTF"
-	"$bumpmap" "models\player\scout\ND_scout_body_normal"
+	"$basetexture" "freak_fortress_2/epic/ND_scout_red_gibTF"
+	"$bumpmap" "freak_fortress_2/epic/ND_scout_body_normal"
 
 	"$phong" "1"
 //	"$phongexponenttexture" "models\player\soldier\soldier_exponent"

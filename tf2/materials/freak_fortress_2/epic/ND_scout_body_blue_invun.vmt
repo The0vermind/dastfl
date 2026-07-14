@@ -1,11 +1,11 @@
 "VertexLitGeneric"
 {
-	"$basetexture"	"models/player/scout/ND_scout_body_blue_invunTF"
+	"$basetexture"	"freak_fortress_2/epic/ND_scout_body_blue_invunTF"
 	<dx90
 	{
 		 	"$bumpmap" "water/dx80_tfwater001_normal"
 	}
-	"$bumpmap" "models/player/scout/ND_scout_body_normal"
+	"$bumpmap" "freak_fortress_2/epic/ND_scout_body_normal"
 	"$envmap" "effects/cubemapper"
 	"$surfaceprop" "metal"
 	"$halflambert" "1"

@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "models\player\scout\ND_scout_body_blueTF"
-	"$bumpmap" "models\player\scout\ND_scout_body_normal"
+	"$basetexture" "freak_fortress_2/epic/ND_scout_body_blueTF"
+	"$bumpmap" "freak_fortress_2/epic/ND_scout_body_normal"
 	"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"	
 	"$detailscale" "5"
 	"$detailblendfactor" .01
