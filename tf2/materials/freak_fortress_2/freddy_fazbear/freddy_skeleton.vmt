@@ -1,0 +1,21 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "freak_fortress_2/freddy_fazbear/freddy_skeleton"
+     	"$bumpmap" "freak_fortress_2/freddy_fazbear/flat_normal"
+
+$halflambert 0
+
+
+	"$lightwarptexture" "freak_fortress_2/freddy_fazbear/clothes_wrp"
+	"$phong" "1"
+//	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phongboost" "5"
+	"$phongfresnelranges"	"[.5 1 48]"
+	"$phongexponenttexture" "freak_fortress_2/freddy_fazbear/exp"
+
+	"$detail" "freak_fortress_2/freddy_fazbear/detail_metal"
+	"$detailscale" 4
+	"$detailblendfactor" .95
+	"$detailblendmode" 0
+}
