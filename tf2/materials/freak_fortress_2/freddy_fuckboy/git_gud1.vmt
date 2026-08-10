@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/freddy_fuckboy/git_gud1"
+	$alphatest "0"
+	$translucent "1"
+	$nolod "1"
+	$ignorez    "1"
+
+}
