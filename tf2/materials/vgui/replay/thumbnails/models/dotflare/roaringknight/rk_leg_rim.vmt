@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\dotflare\roaringknight\white"
+	"$bumpmap"	"models\dotflare\roaringknight\rk_leg_normal"
+	"$color" "{ 0 0 0 }"
+	
+	"$additive" "1"
+
+	"$phong" "1"
+	"$phongboost"	"0"
+	"$phongfresnelranges"	"[0 0 0.2]"
+	
+	"$envmap" "effects\whitecube"
+	"$envmaptint" "[2 3 5]"		
+	"$envmapfresnel" "1"
+	
+//	This material adds a sort of rim effect thats present on the original blender model, if you dont like it you can disable it by commenting out envmap
+
+}

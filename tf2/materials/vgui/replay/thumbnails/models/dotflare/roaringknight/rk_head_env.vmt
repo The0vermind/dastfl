@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\dotflare\roaringknight\white"
+	"$bumpmap"	"models\dotflare\roaringknight\rk_head_normal"
+	"$color" "{ 0 0 0 }"
+	"$additive" "1"
+
+	"$phongexponenttexture" "models\dotflare\roaringknight\rk_head_phongexp"
+
+	"$phong" "1"
+	"$phongboost"	"0"
+	"$phongfresnelranges"	"[0 0.1 1]"
+	
+	"$envmap" "effects\whitecube"
+	"$envmaptint" "[0.15 0.01 0.3]"
+	"$envmapfresnel" "1"
+//	The envmap here adds a sort of purple sheen thats present in the original model, though adjusted, if you dont like it you can disable it by commenting out $envmap 
+	
+}

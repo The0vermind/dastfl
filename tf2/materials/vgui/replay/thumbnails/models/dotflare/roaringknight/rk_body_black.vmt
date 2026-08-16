@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\dotflare\roaringknight\white"
+	"$bumpmap"	"models\dotflare\roaringknight\rk_body_normal"
+	
+	"$color" "{ 0 0 0 }"
+
+	"$phongexponenttexture" "models\dotflare\roaringknight\rk_body_phongexp"
+
+	"$phong" "1"
+	"$phongboost"	"50"
+	"$phongfresnelranges"	"[0.05 0.115 0.945]"
+	"$phongdisablehalflambert"	"1"
+	"$phongtint" "[0.3 0.3 0.3]"
+	
+	"$rimlight" "1"
+	"$rimlightboost" "0.05"		
+
+}
